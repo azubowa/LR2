@@ -1,0 +1,60 @@
+C:\Users\HP\Desktop\Новая папка\Products\bin\Debug\Products.exe.config
+C:\Users\HP\Desktop\Новая папка\Products\bin\Debug\Products.exe
+C:\Users\HP\Desktop\Новая папка\Products\bin\Debug\Products.pdb
+C:\Users\HP\Desktop\Новая папка\Products\obj\Debug\Products.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Новая папка\Products\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Desktop\Новая папка\Products\obj\Debug\App.g.cs
+C:\Users\HP\Desktop\Новая папка\Products\obj\Debug\Products_MarkupCompile.cache
+C:\Users\HP\Desktop\Новая папка\Products\obj\Debug\Products_MarkupCompile.lref
+C:\Users\HP\Desktop\Новая папка\Products\obj\Debug\MainWindow.baml
+C:\Users\HP\Desktop\Новая папка\Products\obj\Debug\Products.g.resources
+C:\Users\HP\Desktop\Новая папка\Products\obj\Debug\Products.Properties.Resources.resources
+C:\Users\HP\Desktop\Новая папка\Products\obj\Debug\Products.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Новая папка\Products\obj\Debug\Products.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Новая папка\Products\obj\Debug\Products.exe
+C:\Users\HP\Desktop\Новая папка\Products\obj\Debug\Products.pdb
+C:\ТП2\Products\bin\Debug\Products.exe.config
+C:\ТП2\Products\bin\Debug\Products.exe
+C:\ТП2\Products\bin\Debug\Products.pdb
+C:\ТП2\Products\obj\Debug\Products.csprojAssemblyReference.cache
+C:\ТП2\Products\obj\Debug\MainWindow.g.cs
+C:\ТП2\Products\obj\Debug\App.g.cs
+C:\ТП2\Products\obj\Debug\Products_MarkupCompile.cache
+C:\ТП2\Products\obj\Debug\Products_MarkupCompile.lref
+C:\ТП2\Products\obj\Debug\MainWindow.baml
+C:\ТП2\Products\obj\Debug\Products.g.resources
+C:\ТП2\Products\obj\Debug\Products.Properties.Resources.resources
+C:\ТП2\Products\obj\Debug\Products.csproj.GenerateResource.cache
+C:\ТП2\Products\obj\Debug\Products.csproj.CoreCompileInputs.cache
+C:\ТП2\Products\obj\Debug\Products.exe
+C:\ТП2\Products\obj\Debug\Products.pdb
+C:\Users\azubo\OneDrive\Desktop\ЛР2\Risenr31-product-60f5040a4e9d (1)\Risenr31-product-60f5040a4e9d\Products\bin\Debug\Products.exe.config
+C:\Users\azubo\OneDrive\Desktop\ЛР2\Risenr31-product-60f5040a4e9d (1)\Risenr31-product-60f5040a4e9d\Products\bin\Debug\Products.exe
+C:\Users\azubo\OneDrive\Desktop\ЛР2\Risenr31-product-60f5040a4e9d (1)\Risenr31-product-60f5040a4e9d\Products\bin\Debug\Products.pdb
+C:\Users\azubo\OneDrive\Desktop\ЛР2\Risenr31-product-60f5040a4e9d (1)\Risenr31-product-60f5040a4e9d\Products\obj\Debug\Products.csprojAssemblyReference.cache
+C:\Users\azubo\OneDrive\Desktop\ЛР2\Risenr31-product-60f5040a4e9d (1)\Risenr31-product-60f5040a4e9d\Products\obj\Debug\MainWindow.g.cs
+C:\Users\azubo\OneDrive\Desktop\ЛР2\Risenr31-product-60f5040a4e9d (1)\Risenr31-product-60f5040a4e9d\Products\obj\Debug\App.g.cs
+C:\Users\azubo\OneDrive\Desktop\ЛР2\Risenr31-product-60f5040a4e9d (1)\Risenr31-product-60f5040a4e9d\Products\obj\Debug\Products_MarkupCompile.cache
+C:\Users\azubo\OneDrive\Desktop\ЛР2\Risenr31-product-60f5040a4e9d (1)\Risenr31-product-60f5040a4e9d\Products\obj\Debug\Products_MarkupCompile.lref
+C:\Users\azubo\OneDrive\Desktop\ЛР2\Risenr31-product-60f5040a4e9d (1)\Risenr31-product-60f5040a4e9d\Products\obj\Debug\MainWindow.baml
+C:\Users\azubo\OneDrive\Desktop\ЛР2\Risenr31-product-60f5040a4e9d (1)\Risenr31-product-60f5040a4e9d\Products\obj\Debug\Products.g.resources
+C:\Users\azubo\OneDrive\Desktop\ЛР2\Risenr31-product-60f5040a4e9d (1)\Risenr31-product-60f5040a4e9d\Products\obj\Debug\Products.Properties.Resources.resources
+C:\Users\azubo\OneDrive\Desktop\ЛР2\Risenr31-product-60f5040a4e9d (1)\Risenr31-product-60f5040a4e9d\Products\obj\Debug\Products.csproj.GenerateResource.cache
+C:\Users\azubo\OneDrive\Desktop\ЛР2\Risenr31-product-60f5040a4e9d (1)\Risenr31-product-60f5040a4e9d\Products\obj\Debug\Products.csproj.CoreCompileInputs.cache
+C:\Users\azubo\OneDrive\Desktop\ЛР2\Risenr31-product-60f5040a4e9d (1)\Risenr31-product-60f5040a4e9d\Products\obj\Debug\Products.exe
+C:\Users\azubo\OneDrive\Desktop\ЛР2\Risenr31-product-60f5040a4e9d (1)\Risenr31-product-60f5040a4e9d\Products\obj\Debug\Products.pdb
+E:\учеба\Технологии программирования\ЛР2ТП\Products\obj\Debug\Products.csprojAssemblyReference.cache
+E:\учеба\Технологии программирования\ЛР2ТП\Products\obj\Debug\MainWindow.g.cs
+E:\учеба\Технологии программирования\ЛР2ТП\Products\obj\Debug\App.g.cs
+E:\учеба\Технологии программирования\ЛР2ТП\Products\obj\Debug\Products_MarkupCompile.cache
+E:\учеба\Технологии программирования\ЛР2ТП\Products\obj\Debug\Products_MarkupCompile.lref
+E:\учеба\Технологии программирования\ЛР2ТП\Products\obj\Debug\Products.exe
+E:\учеба\Технологии программирования\ЛР2ТП\Products\obj\Debug\Products.pdb
+E:\учеба\Технологии программирования\ЛР2ТП\Products\bin\Debug\Products.exe.config
+E:\учеба\Технологии программирования\ЛР2ТП\Products\bin\Debug\Products.exe
+E:\учеба\Технологии программирования\ЛР2ТП\Products\bin\Debug\Products.pdb
+E:\учеба\Технологии программирования\ЛР2ТП\Products\obj\Debug\MainWindow.baml
+E:\учеба\Технологии программирования\ЛР2ТП\Products\obj\Debug\Products.g.resources
+E:\учеба\Технологии программирования\ЛР2ТП\Products\obj\Debug\Products.Properties.Resources.resources
+E:\учеба\Технологии программирования\ЛР2ТП\Products\obj\Debug\Products.csproj.GenerateResource.cache
+E:\учеба\Технологии программирования\ЛР2ТП\Products\obj\Debug\Products.csproj.CoreCompileInputs.cache

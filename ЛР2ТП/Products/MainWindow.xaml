@@ -1,0 +1,35 @@
+﻿<Window x:Class="Products.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Products"
+        mc:Ignorable="d"
+        Title="" Height="450" Width="643">
+    <Grid Margin="0,0,-7,-0.333" HorizontalAlignment="Left" Width="643">
+        <ListView Name = "ProduktList"  HorizontalAlignment="Left" Height="246" VerticalAlignment="Top" Width="266" Margin="10,154,0,0" RenderTransformOrigin="0.525,0.29" SelectionChanged="Menu_SelectionChanged">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <WrapPanel>
+                        <TextBlock Text="{Binding name}"/>
+                        <TextBlock Text="  ,"/>
+                        <TextBlock Text="{Binding preis}"/>
+                        <TextBlock Text=" руб., "/>
+                        <TextBlock Text="{Binding nutzbarkeit}"/>
+                        <TextBlock Text=" "/>
+                    </WrapPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <ListView Name="ItogoList" HorizontalAlignment="Left" Height="246" VerticalAlignment="Top" Width="317" Margin="291,154,0,0" SelectionChanged="ItogoList_SelectionChanged">
+        </ListView>
+        <Button Name ="Itogo"  Content="Готово" HorizontalAlignment="Left" Height="24" Margin="295,86,0,0" VerticalAlignment="Top" Width="122" Click="Itogo_Click"/>
+        <TextBox Name ="Money"  HorizontalAlignment="Left" Height="27" Margin="295,54,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="163"/>
+        <TextBox Name ="Choose" HorizontalAlignment="Left" Height="26" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="266" Margin="10,54,0,0"/>
+        <Button Content="Выбрать файл" HorizontalAlignment="Left" Height="24" Margin="10,85,0,0" VerticalAlignment="Top" Width="132" Click="ChooseFile_Click"/>
+        <Label Content="Выберите файл:" HorizontalAlignment="Left" VerticalAlignment="Top" Width="191" Margin="10,10,0,0" FontStyle="Italic" FontSize="16"/>
+        <Label Content="Введие сумму денег:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="295,10,0,0" FontSize="16" Width="178" FontStyle="Italic"/>
+        <Label Content="Список продуктов:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,114,0,0" Width="159" FontSize="16" FontStyle="Italic"/>
+        <Label Content="Ваша корзина:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="295,114,0,0" Width="138" FontSize="16" FontStyle="Italic"/>
+    </Grid>
+</Window>

@@ -1,0 +1,13 @@
+E:\учеба\Технологии программирования\ЛР2ТП\ЛР2Console\ЛР2Console\bin\Debug\netcoreapp3.1\ЛР2Console.exe
+E:\учеба\Технологии программирования\ЛР2ТП\ЛР2Console\ЛР2Console\bin\Debug\netcoreapp3.1\ЛР2Console.deps.json
+E:\учеба\Технологии программирования\ЛР2ТП\ЛР2Console\ЛР2Console\bin\Debug\netcoreapp3.1\ЛР2Console.runtimeconfig.json
+E:\учеба\Технологии программирования\ЛР2ТП\ЛР2Console\ЛР2Console\bin\Debug\netcoreapp3.1\ЛР2Console.runtimeconfig.dev.json
+E:\учеба\Технологии программирования\ЛР2ТП\ЛР2Console\ЛР2Console\bin\Debug\netcoreapp3.1\ЛР2Console.dll
+E:\учеба\Технологии программирования\ЛР2ТП\ЛР2Console\ЛР2Console\bin\Debug\netcoreapp3.1\ЛР2Console.pdb
+E:\учеба\Технологии программирования\ЛР2ТП\ЛР2Console\ЛР2Console\obj\Debug\netcoreapp3.1\ЛР2Console.csprojAssemblyReference.cache
+E:\учеба\Технологии программирования\ЛР2ТП\ЛР2Console\ЛР2Console\obj\Debug\netcoreapp3.1\ЛР2Console.AssemblyInfoInputs.cache
+E:\учеба\Технологии программирования\ЛР2ТП\ЛР2Console\ЛР2Console\obj\Debug\netcoreapp3.1\ЛР2Console.AssemblyInfo.cs
+E:\учеба\Технологии программирования\ЛР2ТП\ЛР2Console\ЛР2Console\obj\Debug\netcoreapp3.1\ЛР2Console.csproj.CoreCompileInputs.cache
+E:\учеба\Технологии программирования\ЛР2ТП\ЛР2Console\ЛР2Console\obj\Debug\netcoreapp3.1\ЛР2Console.dll
+E:\учеба\Технологии программирования\ЛР2ТП\ЛР2Console\ЛР2Console\obj\Debug\netcoreapp3.1\ЛР2Console.pdb
+E:\учеба\Технологии программирования\ЛР2ТП\ЛР2Console\ЛР2Console\obj\Debug\netcoreapp3.1\ЛР2Console.genruntimeconfig.cache
